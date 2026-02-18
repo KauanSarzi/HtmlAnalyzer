@@ -344,12 +344,5 @@ O tamanho da pilha representa naturalmente quantas tags estão abertas, traduzin
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauansarzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi24@gmail.com)
 
----
-
-<div align="center">
-
-**⭐ Projeto desenvolvido para processo seletivo de estágio em desenvolvimento**
-
-*Implementado com 💚 e Stack por [Kauan Sarzi](https://github.com/kauansarzi)*
 
 </div>

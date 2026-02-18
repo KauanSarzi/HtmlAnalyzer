@@ -30,6 +30,15 @@ Java application that analyzes HTML structure and identifies the deepest text el
 
 ---
 
+## What I Learned
+
+- Stack-based parsing logic
+- Algorithm implementation in Java
+- Error handling and defensive programming
+- Processing external data sources
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauan-sarzi)
@@ -37,4 +46,3 @@ Java application that analyzes HTML structure and identifies the deepest text el
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi24@gmail.com)
 
 
-</div>

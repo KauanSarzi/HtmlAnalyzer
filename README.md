@@ -155,3 +155,10 @@ This project reinforces core programming concepts:
 * Parsing without abstraction layers
 * Controlled I/O behavior
 * Defensive programming under constraints
+
+## 👤 Author
+
+**Kauan Sarzi da Rocha**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kauan-sarzi)
+- [![Email](https://img.shields.io/badge/Email-kauansarzi24@gmail.com-D14836?style=flat&logo=gmail)](mailto:kauansarzi24@gmail.com)
+
